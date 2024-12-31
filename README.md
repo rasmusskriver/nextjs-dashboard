@@ -6,8 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## ToDo
 
-[] - eslint skal jeg lige have fattet hvordan fungere inden vi køre videre i det her forfærdelig javasript framework land.
-[] -
+[] - Er på tour stadig
 [] -
 [] -
 [] -
